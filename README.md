@@ -4,8 +4,6 @@
 
 Me chamo Jorge Gustavo, tenho 24 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
-https://github.com/Juv1ni?tab=repositories
-
 <p align="left">
     <a href="https://github.com/Juv1ni?tab=repositories&sort=stargazers">
         <img 
