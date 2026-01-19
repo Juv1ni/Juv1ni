@@ -95,5 +95,5 @@ Me chamo Jorge Gustavo, tenho 24 anos e sou natural de Fortaleza-CE. Atualmente,
     title="Dart"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
 />
