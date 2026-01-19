@@ -51,6 +51,14 @@ Me chamo Jorge Gustavo, tenho 24 anos e sou natural de Fortaleza-CE. Atualmente,
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -64,4 +72,28 @@ Me chamo Jorge Gustavo, tenho 24 anos e sou natural de Fortaleza-CE. Atualmente,
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NextJS" 
+    title="NextJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Dart" 
+    title="Dart"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg"
 />
